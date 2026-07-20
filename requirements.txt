@@ -1,2 +1,0 @@
-psutil
-pynvml; platform_machine != 'aarch64'

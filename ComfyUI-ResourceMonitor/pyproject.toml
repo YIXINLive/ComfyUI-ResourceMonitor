@@ -1,0 +1,9 @@
+[project]
+name = "ComfyUI-ResourceMonitor"
+description = "A lightweight resource monitor for ComfyUI showing CPU, GPU, RAM, VRAM, and disk usage in the menu bar. Based on the resource monitor from ComfyUI-Crystools by crystian."
+version = "1.0.0"
+
+[tool.comfy]
+PublisherId = "resource_monitor"
+DisplayName = "Resource Monitor"
+Icon = ""
